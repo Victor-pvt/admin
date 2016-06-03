@@ -3,7 +3,7 @@
 use AdminTemplate;
 use Illuminate\View\View;
 
-class StringHelper extends NamedColumn
+class Strin extends NamedColumn
 {
 
 	/**
